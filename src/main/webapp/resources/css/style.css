@@ -1,0 +1,20 @@
+.error	{
+	color: red;
+}
+h1 {
+	padding-top: 60px;
+	padding-bottom: 60px;
+	background-color: #f4d142;
+	color: white;
+	margin-left: -50px;
+	margin-right: -50px;
+	margin-top: -10px;
+	font-family: cursive;
+}
+.row {
+	padding-top: 50px;
+}
+.container-fluid {
+	padding-left: 50px;
+	padding-right: 50px;
+}
